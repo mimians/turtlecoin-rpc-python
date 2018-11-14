@@ -26,7 +26,7 @@ You can install the latest version from PyPI:
 
 .. code-block:: bash
 
-    $ pip3 install turtlecoin
+    $ pip3 install mimimoney
 
 Documentation
 -------------
